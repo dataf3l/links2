@@ -1,3 +1,5 @@
 console.log("Hello World")
 console.log("HI")
 console.log("Here")
+console.log("\n")
+console.log("Newline")
